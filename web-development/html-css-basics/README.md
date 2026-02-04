@@ -1,21 +1,22 @@
-# HTML & CSS Basics – Task 001
+---
 
-## Objective
-Create a simple personal introduction webpage using HTML and CSS.
+## 🧩 Community Challenge #1 – Intro Pages
 
-## Instructions
-1. Create a folder with **your full name** inside this directory
-2. Inside your folder, add:
-   - index.html
-   - style.css
-3. Your page should include:
-   - Your name
-   - A short bio
-   - Your learning goal at TruthLine Innovations
+As part of our first community challenge, members are to create a simple personal introduction page using **HTML and CSS only**.
 
-## Rules
-- Do not edit another person’s folder
-- Keep it simple and clean
-- Commit with a clear message
+### Instructions:
+1. Navigate to: web-development/intro-pages/
+2. Create a folder with **your name**
+3. Add:
+- `index.html`
+- `style.css`
+4. Keep it simple and beginner-friendly
 
-Happy coding 🚀
+### What to include:
+- Your name
+- What you're learning
+- One tech goal you have
+
+After completing your page, share your folder link or a screenshot in the **Community Challenge #1** discussion.
+
+Let’s learn by building 🚀
